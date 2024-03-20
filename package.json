@@ -18,8 +18,10 @@
   },
   "dependencies": {
     "cypress-plugin-api": "^2.11.1"
-  }
-  
+  },
+  "engines": {
+  "node": "20.x.x"
+}
   
     
   
